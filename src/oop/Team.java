@@ -3,6 +3,9 @@ package oop;
  * @author Shahd
  * @version 0.1
  */
+/**
+*edit github
+*/
 public class Team {
     /**
      * Name of team
